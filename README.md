@@ -65,7 +65,7 @@
  - [ ] WorldMail IMAPd 3.0
 
 
-## DEP Bypass
+## Return Oriented Programming
 
  - [ ] ASX to MP3 converter 3.1.2.1 + DEP
  - [ ] VUPlayer 2.49 + DEP
@@ -73,7 +73,7 @@
  - [ ] Vulnserver TRUN + DEP
 
 
-# ASLR Bypass
+## ASLR Bypass
 ...
 
 
