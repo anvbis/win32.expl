@@ -10,6 +10,7 @@
  - [x] FreeFloat FTP Server 1.0
  - [x] PCMan FTP Server 2.0.7
  - [x] MiniShare 1.4.1
+ - [ ] Sync Breeze Enterprise 10.0.28
 
 
 ## SEH Overflows
@@ -38,6 +39,7 @@
  - [ ] httpdx 0.5b - FTP Server
  - [ ] freeSSHd 1.2.1
  - [ ] Easy Address Book Web Server 1.6
+ - [ ] Sync Breeze Enterprise 10.4.18
 
 
 ## Egghunters
@@ -67,14 +69,20 @@
 
 ## Return Oriented Programming
 
- - [ ] ASX to MP3 converter 3.1.2.1 + DEP
- - [ ] VUPlayer 2.49 + DEP
- - [ ] DVD X Player Pro v5.5 + DEP
- - [ ] Vulnserver TRUN + DEP
+ - [ ] ASX to MP3 converter 3.1.2.1
+ - [ ] VUPlayer 2.49
+ - [ ] DVD X Player Pro v5.5
+ - [ ] Vulnserver TRUN
 
 
 ## ASLR Bypass
-...
+
+ - [ ] BlazeDVD 7.0 Professional
+ - [ ] BigAnt Server 2.52 SP5
+ - [ ] Easy RM to MP3 Converter 2.7.3.700
+ - [ ] Simple Web Server 2.2-rc2
+ - [ ] Mini-stream RM-MP3 Converter 3.1.2.1.2010.03.30
+ - [ ] Adrenalin Player 2.2.5.3
 
 
 ## Format Strings
