@@ -14,6 +14,7 @@
  - [x] PCMan FTP Server 2.0.7
  - [x] MiniShare 1.4.1
  - [x] Sync Breeze Enterprise 10.0.28
+ - [ ] Easy Address Book Web Server 1.6
 
 
 ## Structed Exception Handling
@@ -37,14 +38,11 @@
 ### Remote Exploits
  - [x] Vulnserver GMON
  - [x] EFS Easy Chat Server 3.1
- - [ ] Disk Sorter Enterprise 9.5.12
  - [x] Easy File Sharing Web Server 7.2
- - [ ] freeFTPd 1.0.10
  - [ ] FathFTP 1.8
  - [ ] File Sharing Wizard 1.5.0
  - [ ] httpdx 0.5b - FTP Server
  - [ ] freeSSHd 1.2.1
- - [ ] Easy Address Book Web Server 1.6
  - [x] Sync Breeze Enterprise 10.4.18
 
 
@@ -74,6 +72,9 @@
  - [ ] Sysax Multi Server 5.52
  - [ ] Savant Web Server 3.1
  - [ ] WorldMail IMAPd 3.0
+ - [ ] Sync Breeze Enterprise 10.4.18
+ - [ ] Disk Sorter Enterprise 9.5.12
+ - [ ] freeFTPd 1.0.10
 
 
 ## Return Oriented Programming
@@ -85,6 +86,7 @@
 
 ### Remote Exploits
  - [ ] Vulnserver TRUN
+ - [ ] Vulnserver GMON
 
 
 ## Address Space Layout Randomization
