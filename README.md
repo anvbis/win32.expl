@@ -10,7 +10,7 @@
  - [x] FreeFloat FTP Server 1.0
  - [x] PCMan FTP Server 2.0.7
  - [x] MiniShare 1.4.1
- - [ ] Sync Breeze Enterprise 10.0.28
+ - [x] Sync Breeze Enterprise 10.0.28
 
 
 ## SEH Overflows
