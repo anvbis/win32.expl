@@ -2,8 +2,11 @@
 
 ## Stack Overflows
 
+### Local Exploits
  - [x] VUPlayer 2.49
  - [x] Easy RM to MP3 Converter v2.7.3.700
+
+### Remote Exploits
  - [x] Vulnserver TRUN
  - [x] Brainpan
  - [x] DoStackBufferOverflowGood
@@ -15,6 +18,7 @@
 
 ## SEH Overflows
 
+### Local Exploits
  - [ ] FTPShell Server v6.80
  - [ ] 10-Strike Network Inventory Explorer 8.65
  - [ ] 10-Strike Network Scanner v3.0
@@ -29,6 +33,8 @@
  - [ ] eZip Wizard 3.0
  - [ ] ASX to MP3 converter 3.1.2.1
  - [ ] DVD X Player Pro v5.5
+
+### Remote Exploits
  - [x] Vulnserver GMON
  - [x] EFS Easy Chat Server 3.1
  - [ ] Disk Sorter Enterprise 9.5.12
@@ -44,6 +50,7 @@
 
 ## Egghunters
 
+### Local Exploits
  - [ ] docPrint Pro 8.0
  - [ ] Foxit Reader 4.1.1
  - [ ] Audacity 1.2
@@ -54,6 +61,8 @@
  - [ ] CoolPlayer+ Portable 2.19.6
  - [ ] KiTTY Portable 0.65.0.2p
  - [ ] IP-Tools 2.5
+
+### Remote Exploits
  - [ ] Vulnserver GTER
  - [ ] Vulnserver GMON
  - [ ] Vulnserver KSTET
@@ -69,24 +78,31 @@
 
 ## Return Oriented Programming
 
+### Local Exploits
  - [ ] ASX to MP3 converter 3.1.2.1
  - [ ] VUPlayer 2.49
  - [ ] DVD X Player Pro v5.5
+
+### Remote Exploits
  - [ ] Vulnserver TRUN
 
 
 ## ASLR Bypass
 
+### Local Exploits
  - [ ] BlazeDVD 7.0 Professional
- - [ ] BigAnt Server 2.52 SP5
  - [ ] Easy RM to MP3 Converter 2.7.3.700
- - [ ] Simple Web Server 2.2-rc2
  - [ ] Mini-stream RM-MP3 Converter 3.1.2.1.2010.03.30
  - [ ] Adrenalin Player 2.2.5.3
+
+### Remote Exploits
+ - [ ] Simple Web Server 2.2-rc2
+ - [ ] BigAnt Server 2.52 SP5
 
 
 ## Format Strings
 
+### Remote Exploits
  - [ ] Easy Address Book Web Server 1.2
  - [ ] Magic Winmail Server 2.3
  - [ ] ComSndFTP 1.3.7 Beta
