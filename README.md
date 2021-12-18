@@ -16,7 +16,7 @@
  - [x] Sync Breeze Enterprise 10.0.28
 
 
-## SEH Overflows
+## Structed Exception Handler
 
 ### Local Exploits
  - [ ] FTPShell Server v6.80
@@ -48,7 +48,7 @@
  - [ ] Sync Breeze Enterprise 10.4.18
 
 
-## Egghunters
+## Egg Hunters
 
 ### Local Exploits
  - [ ] docPrint Pro 8.0
@@ -87,7 +87,7 @@
  - [ ] Vulnserver TRUN
 
 
-## ASLR Bypass
+## Address Space Layout Randomization
 
 ### Local Exploits
  - [ ] BlazeDVD 7.0 Professional
@@ -100,7 +100,7 @@
  - [ ] BigAnt Server 2.52 SP5
 
 
-## Format Strings
+## Format String Attacks
 
 ### Remote Exploits
  - [ ] Easy Address Book Web Server 1.2
