@@ -45,7 +45,7 @@
  - [ ] httpdx 0.5b - FTP Server
  - [ ] freeSSHd 1.2.1
  - [ ] Easy Address Book Web Server 1.6
- - [ ] Sync Breeze Enterprise 10.4.18
+ - [x] Sync Breeze Enterprise 10.4.18
 
 
 ## Egg Hunters
