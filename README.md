@@ -16,7 +16,7 @@
  - [x] Sync Breeze Enterprise 10.0.28
 
 
-## Structed Exception Handler
+## Structed Exception Handling
 
 ### Local Exploits
  - [ ] FTPShell Server v6.80
