@@ -5,6 +5,8 @@
 ### Local Exploits
  - [x] VUPlayer 2.49
  - [x] Easy RM to MP3 Converter v2.7.3.700
+ - [ ] FTPShell Server 6.56
+ - [ ] FTPShell Server 6.83
 
 ### Remote Exploits
  - [x] Vulnserver TRUN
@@ -20,18 +22,16 @@
 ## Structed Exception Handling
 
 ### Local Exploits
- - [ ] FTPShell Server v6.80
- - [ ] 10-Strike Network Inventory Explorer 8.65
- - [ ] 10-Strike Network Scanner v3.0
+ - [ ] FTPShell Server 6.80
+ - [ ] 10-Strike Network Inventory Explorer 8.54
  - [ ] Millenium MP3 Studio 2.0
  - [ ] Free MP3 CD Ripper 2.6
- - [ ] Easy CD DVD Copy v1.3.24
- - [ ] Zip-n-Go v4.9
+ - [ ] Free MP3 CD Ripper 2.6.8
+ - [ ] Easy CD DVD Copy 1.3.24
  - [ ] Boxoft Audio Converter 2.3.0
  - [ ] Easy AVI DivX Converter 1.2.24
  - [ ] My Video Converter 1.5.24
  - [ ] VeryPDF Image2PDF Converter
- - [ ] eZip Wizard 3.0
  - [ ] ASX to MP3 converter 3.1.2.1
  - [ ] DVD X Player Pro v5.5
 
@@ -83,6 +83,8 @@
  - [ ] ASX to MP3 converter 3.1.2.1
  - [ ] VUPlayer 2.49
  - [ ] DVD X Player Pro v5.5
+ - [ ] 10-Strike Network Inventory Explorer 8.54
+ - [ ] Free MP3 CD Ripper 2.6.8
 
 ### Remote Exploits
  - [ ] Vulnserver TRUN
