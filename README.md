@@ -39,10 +39,6 @@
  - [x] Vulnserver GMON
  - [x] EFS Easy Chat Server 3.1
  - [x] Easy File Sharing Web Server 7.2
- - [ ] FathFTP 1.8
- - [ ] File Sharing Wizard 1.5.0
- - [ ] httpdx 0.5b - FTP Server
- - [ ] freeSSHd 1.2.1
  - [x] Sync Breeze Enterprise 10.4.18
 
 
