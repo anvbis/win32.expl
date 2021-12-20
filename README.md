@@ -57,9 +57,9 @@
  - [ ] IP-Tools 2.5
 
 ### Remote Exploits
- - [ ] Vulnserver GTER
+ - [x] Vulnserver GTER
  - [ ] Vulnserver GMON
- - [ ] Vulnserver KSTET
+ - [x] Vulnserver KSTET
  - [ ] Easy File Sharing Web Server 7.2
  - [ ] Xitami Web Server 2.5
  - [ ] TFTP Server 1.4
