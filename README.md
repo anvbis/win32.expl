@@ -58,7 +58,7 @@
 
 ### Remote Exploits
  - [x] Vulnserver GTER
- - [ ] Vulnserver GMON
+ - [x] Vulnserver GMON
  - [x] Vulnserver KSTET
  - [ ] Easy File Sharing Web Server 7.2
  - [ ] Xitami Web Server 2.5
