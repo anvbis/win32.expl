@@ -68,7 +68,7 @@
  - [ ] Sysax Multi Server 5.52
  - [x] Savant Web Server 3.1
  - [ ] WorldMail IMAPd 3.0
- - [ ] Sync Breeze Enterprise 10.4.18
+ - [x] Sync Breeze Enterprise 10.4.18
  - [ ] Disk Sorter Enterprise 9.5.12
  - [ ] freeFTPd 1.0.10
 
