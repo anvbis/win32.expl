@@ -72,6 +72,14 @@
  - [ ] IP-Tools 2.5
 
 
+## Custom Shellcode
+
+ - [x] Finding kernel32.dll
+ - [ ] Resolving symbols
+ - [ ] Loading DLLs
+ - [ ] Reverse shell
+
+
 ## Return Oriented Programming
 
 ### Remote Exploits
