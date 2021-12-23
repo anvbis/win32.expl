@@ -74,10 +74,10 @@
 
 ## Custom Shellcode
 
- - [x] Finding kernel32.dll
- - [ ] Resolving symbols
+ - [x] Finding Kernel32.dll
+ - [ ] Resolving Symbols
  - [ ] Loading DLLs
- - [ ] Reverse shell
+ - [ ] Reverse Shell
 
 
 ## Return Oriented Programming
